@@ -1,1 +1,1 @@
-# 02-Mini-Project-ComboFinder
+# ComboFinder
