@@ -8,4 +8,4 @@
 ### **Web Interface**
 ---
 
-![image](https://user-images.githubusercontent.com/7460892/173579649-a62fd7ce-882a-4751-a305-dd575a817f65.png)
+![image](https://user-images.githubusercontent.com/7460892/173579832-ee775b06-9ceb-4881-9afe-d2e4dbef1b29.png)
